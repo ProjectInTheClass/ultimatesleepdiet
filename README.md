@@ -1,1 +1,1 @@
-The ultimate sleep workout app for desert lovers - An app that shows how many hours of sleep is needed to burn off the calorie.
+The ultimate sleep workout app for people who love desserts; the app shows how many hours of sleep is needed to burn off the calorie that is accumulated due to eating desserts. Users of the app would be those who are conscious about calorie intake but are lazy to work out, want to be aware of their desert routines, and numerical energy value.
